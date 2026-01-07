@@ -1,0 +1,144 @@
+You are now preparing a structured, professional report for the treating neurologist based on the full consultation transcript.
+Format the entire report professionally with clear section breaks for easy clinical reading.
+
+Follow this structure:
+
+### Clinical Timeline
+
+- Mechanism of injury → immediate symptoms → healthcare received → current presentation
+- Include specific timeframes
+
+### History Summary
+
+Concise overview of the case including:
+
+- Patient demographics (if mentioned)
+- Mechanism and circumstances of injury
+- Initial and evolving symptoms
+- Healthcare interventions to date
+- Current symptom profile
+- Functional impact
+- Relevant past medical history
+- Verbatim quotes if significant
+
+### The Mayo Classification System for Traumatic Brain Injury Severity
+
+Classify TBI severity strictly according to the Mayo Classification System:
+
+A. Classify as Moderate-Severe (Definite) TBI if one or more of the following criteria apply:
+1. Death due to this TBI
+2. Loss of consciousness of 30 minutes or more
+3. Post-traumatic anterograde amnesia of 24 hours or more
+4. Worst Glasgow Coma Scale full score in first 24 hours < 13 (unless invalidataed upon review, e.g., attributable to intoxication, sedation, systemic shock)
+5. One or more of the following present:
+- Intracerebral hematoma
+- Subdural hematoma
+- Epidural hematoma
+- Cerebral contusion
+- Hemorrhagic contusion
+- Penetrating TBI (dura penetrated)
+- Subarachnoid hemorrhage
+- Brain Stem Injury
+
+B.If none of Criteria A apply, classify as Mild (Probable) TBI if one or more of the following criteria apply:
+1. Loss of consciousness of momentary to less than 30 minutes
+2. Post-traumatic anterograde amnesia of momentary to less than 24 hours
+3. Depressed, basilar or linear skull fracture (dura intact)
+
+C.If none of Criteria A or B apply, classify as Symptomatic (Possible) TBI if one or more of the following symptoms are present:
+- Blurred vision
+- Confusion (mental state changes)
+- Dazed
+- Dizziness
+- Focal neurologic symptoms
+- Headache
+- Nausea
+
+### Differential Diagnosis
+
+Rank diagnoses by likelihood. For each, include:
+
+- Features supporting this diagnosis
+- Features against this diagnosis
+- Quality of evidence for this diagnosis in TBI context
+
+Common differentials to consider:
+
+- Migraine/ post traumatic headache
+- BPPV
+- Intracranial injury (if not yet imaged or if symptoms evolving)
+- Cervical spine injury
+- Vestibular dysfunction
+- Medication overuse headache
+- Anxiety/adjustment disorder
+- Post-traumatic stress disorder
+- Pre-existing conditions exacerbated by injury
+
+Explain your clinical reasoning for each diagnosis.
+
+### Suggested Management
+
+Organize recommendations clearly, explaining rationale for each:
+
+- *Immediate actions:**
+- Need for urgent imaging or specialist review
+- Safety considerations
+- *Investigations:**
+- Imaging: CT, MRI (specify clinical indications)
+- Neuropsychological testing
+- Vestibular assessment
+- Other specialist input: ophthalmology, ENT, neuropsychology
+- *Treatment:**
+- Pharmacological interventions (with evidence base)
+- Physical therapy or rehabilitation
+- Cognitive rehabilitation
+- Psychological support or therapy
+- Symptom-specific management
+- *Follow-up:**
+- Recommended review interval
+- Monitoring parameters
+- When to expedite review
+
+When providing recommendations, reference high-quality evidence and guidelines whenever appropriate. Specifically:
+
+- NICE Head Injury Guideline (NG232): Incorporate relevant criteria and recommendations from the guideline (https://www.nice.org.uk/guidance/ng232/resources/head-injury-assessment-and-early-management-pdf-66143892774085).
+- Consensus Statements on Concussion: Draw on established consensus documents (e.g., international concussion in sport consensus statements) when discussing assessment, management, and return-to-play/return-to-learn protocols.
+- Systematic Reviews and Meta-Analyses: Cite specific, high-quality reviews (include author(s) and year) when supporting treatment recommendations or prognostic information.
+- Evidence Quality: Clearly state the level, quality, or certainty of the evidence (e.g., GRADE ratings, strength of recommendation) when summarising clinical guidance.
+
+### Expected Natural History
+
+Provide realistic expectations for recovery trajectory based on injury severity and symptom pattern.
+
+### Self-Management Advice for Patient
+
+ *Activity:**
+- Physical activity recommendations
+- Return to work/school guidance
+- Return to sports guidance (if relevant)
+- *Symptom Management:**
+- Specific strategies for headache, sleep, cognitive symptoms
+- Activity pacing and energy conservation
+- *Medications:**
+- What to take, what to avoid (e.g., NSAIDs vs paracetamol)
+- *Lifestyle:**
+- Alcohol avoidance recommendations
+- Screen time management
+- Sleep hygiene
+- *When to Seek Help:**
+
+List red flag symptoms requiring immediate emergency assessment:
+
+- Severe worsening headache
+- Repeated vomiting
+- Seizure or fit
+- Weakness or numbness
+- Increasing confusion or difficulty waking
+- Vision changes
+- Clear fluid from nose or ears
+
+Also specify when to contact GP or arrange earlier neurology review.
+
+### Clinical Observations
+
+Note any cognitive or behavioral observations during the consultation that may inform assessment (e.g., word-finding difficulty, apparent memory problems, emotional lability).
